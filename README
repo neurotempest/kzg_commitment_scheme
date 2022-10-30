@@ -1,0 +1,9 @@
+Implementation of KZG commitments for learning purposes.
+
+(Probably not secure, and maybe not correct!)
+
+Using these resources (and the references within):
+
+* https://scroll.io/blog/kzg
+* https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html#fn:2
+* https://alinush.github.io/2020/05/06/kzg-polynomial-commitments.html
